@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Shara7h
+- 👀 I’m interested in full stack web development, machine learning, and open-source projects.
+- 🌱 I’m currently learning advanced JavaScript, Python for data science, and cloud computing.
+- 💞️ I’m looking to collaborate on innovative web apps, AI projects, and any exciting hackathons.
+- 📫 How to reach me: [sharathkulal373@gmail.com](mailto:your-email@example.com)
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I once coded a weather app while skydiving—talk about cloud computing!
